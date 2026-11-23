@@ -1,0 +1,6 @@
+{
+  "name": "La Boussole de l'Entraide",
+  "description": "Jeu de plateau éducatif de type Trivial Poursuit pour les 6 à 15 ans afin de reconnaître, prévenir et désamorcer le harcèlement scolaire avec empathie et mini-jeux coopératifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
